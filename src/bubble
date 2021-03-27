@@ -1,0 +1,256 @@
+Error: Cannot find module 'discord.js'
+Require stack:
+- /home/straznik/bubble/src/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:831:15)
+    at Module.Hook._require.Module.require (/usr/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/straznik/bubble/src/index.js:1:29)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/straznik/bubble/src/index.js' ]
+}
+Error: Cannot find module 'discord.js'
+Require stack:
+- /home/straznik/bubble/src/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:831:15)
+    at Module.Hook._require.Module.require (/usr/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/straznik/bubble/src/index.js:1:29)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/straznik/bubble/src/index.js' ]
+}
+Error: Cannot find module 'discord.js'
+Require stack:
+- /home/straznik/bubble/src/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:831:15)
+    at Module.Hook._require.Module.require (/usr/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/straznik/bubble/src/index.js:1:29)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/straznik/bubble/src/index.js' ]
+}
+Error: Cannot find module 'discord.js'
+Require stack:
+- /home/straznik/bubble/src/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:831:15)
+    at Module.Hook._require.Module.require (/usr/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/straznik/bubble/src/index.js:1:29)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/straznik/bubble/src/index.js' ]
+}
+Error: Cannot find module 'discord.js'
+Require stack:
+- /home/straznik/bubble/src/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:831:15)
+    at Module.Hook._require.Module.require (/usr/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/straznik/bubble/src/index.js:1:29)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/straznik/bubble/src/index.js' ]
+}
+Error: Cannot find module 'discord.js'
+Require stack:
+- /home/straznik/bubble/src/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:831:15)
+    at Module.Hook._require.Module.require (/usr/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/straznik/bubble/src/index.js:1:29)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/straznik/bubble/src/index.js' ]
+}
+Error: Cannot find module 'discord.js'
+Require stack:
+- /home/straznik/bubble/src/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:831:15)
+    at Module.Hook._require.Module.require (/usr/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/straznik/bubble/src/index.js:1:29)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/straznik/bubble/src/index.js' ]
+}
+Error: Cannot find module 'discord.js'
+Require stack:
+- /home/straznik/bubble/src/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:831:15)
+    at Module.Hook._require.Module.require (/usr/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/straznik/bubble/src/index.js:1:29)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/straznik/bubble/src/index.js' ]
+}
+Error: Cannot find module 'discord.js'
+Require stack:
+- /home/straznik/bubble/src/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:831:15)
+    at Module.Hook._require.Module.require (/usr/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/straznik/bubble/src/index.js:1:29)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/straznik/bubble/src/index.js' ]
+}
+Error: Cannot find module 'discord.js'
+Require stack:
+- /home/straznik/bubble/src/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:831:15)
+    at Module.Hook._require.Module.require (/usr/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/straznik/bubble/src/index.js:1:29)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/straznik/bubble/src/index.js' ]
+}
+Error: Cannot find module 'discord.js'
+Require stack:
+- /home/straznik/bubble/src/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:831:15)
+    at Module.Hook._require.Module.require (/usr/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/straznik/bubble/src/index.js:1:29)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/straznik/bubble/src/index.js' ]
+}
+Error: Cannot find module 'discord.js'
+Require stack:
+- /home/straznik/bubble/src/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:831:15)
+    at Module.Hook._require.Module.require (/usr/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/straznik/bubble/src/index.js:1:29)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/straznik/bubble/src/index.js' ]
+}
+Error: Cannot find module 'discord.js'
+Require stack:
+- /home/straznik/bubble/src/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:831:15)
+    at Module.Hook._require.Module.require (/usr/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/straznik/bubble/src/index.js:1:29)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/straznik/bubble/src/index.js' ]
+}
+Error: Cannot find module 'discord.js'
+Require stack:
+- /home/straznik/bubble/src/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:831:15)
+    at Module.Hook._require.Module.require (/usr/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/straznik/bubble/src/index.js:1:29)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/straznik/bubble/src/index.js' ]
+}
+Error: Cannot find module 'discord.js'
+Require stack:
+- /home/straznik/bubble/src/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:831:15)
+    at Module.Hook._require.Module.require (/usr/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/straznik/bubble/src/index.js:1:29)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/straznik/bubble/src/index.js' ]
+}
+Error: Cannot find module 'discord.js'
+Require stack:
+- /home/straznik/bubble/src/index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:831:15)
+    at Module.Hook._require.Module.require (/usr/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/straznik/bubble/src/index.js:1:29)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/straznik/bubble/src/index.js' ]
+}
